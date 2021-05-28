@@ -1,0 +1,44 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    margin: 16px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+}
+
+.pages-footer {
+    position: relative;
+    bottom: -90vh;
+}
+
+/* -----home----- */
+
+#home-slider-img {
+    box-shadow: 2px 5px 7px 1px #a9a9a9;
+}
+
+/* -----contact---- */
+
+section {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    text-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
+    font-size: 50px;
+    position: relative;
+}
+
+#body {
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+
